@@ -4,18 +4,12 @@
 	
 }
 
-html, body, div, {
-	margin: 0;
-	padding: 0;
-	
-}
-
 
 .col1 {
 	background-color: #5c84f2;
 	width:33.33%;
 	height:1024px;
-	display:inline-block;
+	float:left;
 	
 }
 
@@ -23,7 +17,6 @@ html, body, div, {
 	background-color: #43f2bd;
 	width:33.33%;
 	height:1024px;
-	display:inline-block;
 	float:left;
 }
 
@@ -33,7 +26,6 @@ html, body, div, {
 	width:33.33%;
 	height:817px;
 	float:right;
-	display:inline-block;
 }
 
 
@@ -43,7 +35,6 @@ html, body, div, {
 	height:207px;
 	text-align: center;
 	line-height: 207px;
-	display:inline-block;
 	float:right;
 
 }
@@ -52,6 +43,5 @@ div.placeholder p {
 	color:#ffffff;
 	font-family:"HelveticaNeue-Light";
 	font-size:175%;
-	margin:0;
 }
 
