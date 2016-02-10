@@ -27,13 +27,15 @@ html, body, div, {
 	float:left;
 }
 
+
 .col3 {
 	background-color: #cef776;
 	width:33.33%;
 	height:817px;
-	display:inline-block;
 	float:right;
+	display:inline-block;
 }
+
 
 .placeholder {
 	background-color: #ff0000;
@@ -41,8 +43,8 @@ html, body, div, {
 	height:207px;
 	text-align: center;
 	line-height: 207px;
-	float:right;
 	display:inline-block;
+	float:right;
 
 }
 
